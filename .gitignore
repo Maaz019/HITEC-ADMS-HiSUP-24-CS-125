@@ -1,0 +1,14 @@
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+appsettings.Production.json
+appsettings.*.local.json
+*.pfx
+secrets.json
+Thumbs.db
+*.tmp
+*.bak
+*.log
+TestResults/
